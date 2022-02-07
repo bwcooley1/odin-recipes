@@ -8,4 +8,8 @@
 >>image added to lasagna.html
 >>description added to lasagna.html
 >>Ingredient list added to lasagna.html
->>cacio-e-pepe-.html added with recipe template
+>>cacio-e-pepe.html added with recipe template
+>>link added to index.html
+>>links changed to unordered list
+>>aglio-olio-peperoncini.html added with recipe template
+>>Page titles added
