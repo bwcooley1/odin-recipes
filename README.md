@@ -13,3 +13,4 @@
 >>links changed to unordered list
 >>aglio-olio-peperoncini.html added with recipe template
 >>Page titles added
+>>link for aglio.. added to index.html
